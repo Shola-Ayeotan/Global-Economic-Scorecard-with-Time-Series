@@ -1,7 +1,7 @@
 # Global Economic Scorecard: Time Series Forecasting with Holt-Winters and ARIMA models
 
 ## Overview
-Within this project, an elaborate statistical and visual exploration of global economic trends was conducted using data from the World Bank's World Development Indicators. The goal was to uncover patterns and relationships in economic indicators across various countries and continents.
+An in-depth and thorough exploration of global economic trends using data obtained from the World Bank's World Development Indicators. Using a combination of statistical and visual analysis, patterns and relationships in economic indicators across countries and continents were meticulously uncovered. The aim was to provide a comprehensive understanding of the complex nature of global economics, and to identify trends and correlations that could inform decision-making processes across a range of industries and fields.
 
 ## Objectives
 - Investigate the global impact of governance on economic prosperity.
