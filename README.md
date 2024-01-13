@@ -37,7 +37,7 @@ The study shed some light on how governance, trade, and labor market conditions 
 ## Dashboard Reporting with PowerBI
 Ultimately, this project required the development of an interactive dashboard using PowerBI to visualize the story. The dashboard displayed economic indicators and their trends over time, providing a user-friendly way to explore the complex data patterns. The dashboard was shared with stakeholders for collaborative analysis, providing valuable insights in a visually appealing and accessible format.
 
-![PowerBI Dashboard](PowerBIDashboard.png)
+![PowerBI Dashboard](PowerBI Dashboard.png)
 
 
 
